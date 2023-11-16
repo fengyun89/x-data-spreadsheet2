@@ -9,11 +9,11 @@
     "dist",
     "src"
   ],
-  "author": "myliang <liangyuliang0335@gmail.com>",
+  "author": "fengyun89 <iamfengyun89@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/myliang/x-spreadsheet.git"
+    "url": "https://github.com/fengyun89/x-data-spreadsheet2.git"
   },
   "nyc": {
     "all": true,
@@ -37,6 +37,7 @@
   "keywords": [
     "javascript",
     "spreadsheet",
+    "excel",
     "canvas"
   ],
   "devDependencies": {
