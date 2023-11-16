@@ -71,5 +71,8 @@
   "collective": {
     "type": "opencollective",
     "url": "https://opencollective.com/x-spreadsheet"
+  },
+  "engines": {
+    "node": "^14.0.0"
   }
 }
